@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "cv-conference",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
